@@ -1,0 +1,213 @@
+{
+  "comics": [
+    {
+      "id": 6,
+      "title": "Y: The Last Man",
+      "genreId": 3,
+      "summary": "The last surviving man on Earth navigates a world populated only by women.",
+      "publicationDate": "2002-09-01",
+      "publisherId": 4,
+      "userID": 102,
+      "url": "https://tse4.mm.bing.net/th?id=OIP.dSgubbHC1xQcZ9rvas_BQAHaLE&pid=Api"
+    },
+    {
+      "id": 7,
+      "title": "Maus",
+      "genreId": 7,
+      "summary": "A memoir of the author's father, a Holocaust survivor, depicted through anthropomorphic animals.",
+      "publicationDate": "1980-12-02",
+      "publisherId": 5,
+      "userID": 102,
+      "url": "https://tse1.mm.bing.net/th?id=OIP.yzumx2MUNbCnVKdU7pHsLAHaKk&pid=Api"
+    },
+    {
+      "id": 8,
+      "title": "V for Vendetta",
+      "genreId": 8,
+      "summary": "In a dystopian future, a masked vigilante known as V fights against a totalitarian regime.",
+      "publicationDate": "1988-10-01",
+      "publisherId": 1,
+      "userID": 102,
+      "url": "https://tse4.mm.bing.net/th?id=OIP.inusGflRU642OxzsSWQDygHaLp&pid=Api"
+    },
+    {
+      "title": "Saga",
+      "genreId": 3,
+      "summary": "A sweeping space opera/fantasy that follows the story of a family fighting to survive",
+      "publicationDate": "2012-10-10",
+      "publisherId": 2,
+      "userID": 101,
+      "url": "https://cdn.imagecomics.com/assets/i/releases/2485/saga-1_db3cd3b774.jpg",
+      "id": 11
+    },
+    {
+      "title": "Akira",
+      "genreId": 3,
+      "summary": "Set in a post-apocalyptic Tokyo, this story follows a biker gang member who gains telekinetic abilities",
+      "publicationDate": "1982-12-20",
+      "publisherId": 3,
+      "userID": 101,
+      "url": "https://www.tebeosfera.com/T3content/img/T3_muestras/T3_series/3/6/541-244-436.jpg",
+      "id": 12
+    },
+    {
+      "title": "The Killing Joke",
+      "genreId": 1,
+      "summary": "The Joker attempts to drive Commissioner Gordon insane by attacking his family, all while delving into his own possible origins",
+      "publicationDate": "1988-03-01",
+      "publisherId": 1,
+      "userID": 101,
+      "url": "https://cdn2.penguin.com.au/covers/original/9781401294052.jpg",
+      "id": 14
+    },
+    {
+      "id": 15,
+      "title": "Watchmen",
+      "genreId": 1,
+      "summary": "In an alternate history where superheroes emerged in the 1940s and 1960s, a former superhero uncovers a conspiracy that could destroy the world.",
+      "publicationDate": "1986-09-01",
+      "publisherId": 1,
+      "userID": 101,
+      "url": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/1124991.jpg"
+    },
+    {
+      "title": "Ms. Marvel",
+      "genreId": 1,
+      "summary": "Kamala Khan, a Pakistani-American teenager, discovers her Inhuman heritage and takes on the mantle of Ms. Marvel, fighting to protect her community and balance her personal life",
+      "publicationDate": "2014-02-01",
+      "publisherId": 6,
+      "userID": 101,
+      "url": "https://tse1.explicit.bing.net/th?id=OIP.F5nmB7npi4iH8K2RosR2aQHaLP&pid=Api",
+      "id": 16
+    },
+    {
+      "title": "The Walking Dead",
+      "genreId": 6,
+      "summary": "Survivors of a zombie apocalypse navigate a brutal new world, where the living can be more dangerous than the dead.",
+      "publicationDate": "2003-03-01",
+      "publisherId": 2,
+      "userID": 102,
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjaJIr8J9pXp_wFAH9ODvFmTozItnekcSkTmDOfB5eCsbS8W3kSgS9FePJWuLhbg8-Mv1uv9cUpF319EwcHgLljvUXYDHBXIEnGy8zNC0HKKVdqSgPf87CWqExv6e5jCkeUkFiPGqqQkw/s1600/01.jpg",
+      "id": 17
+    }
+  ],
+  "publishers": [
+    {
+      "id": 1,
+      "publisherName": "DC Comics"
+    },
+    {
+      "id": 2,
+      "publisherName": "Image Comics"
+    },
+    {
+      "id": 3,
+      "publisherName": "Kodansha"
+    },
+    {
+      "id": 4,
+      "publisherName": "Vertigo Comics"
+    },
+    {
+      "id": 5,
+      "publisherName": "Pantheon Books"
+    },
+    {
+      "id": 6,
+      "publisherName": "Marvel Comics"
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "genreName": "Superhero"
+    },
+    {
+      "id": 2,
+      "genreName": "Crime/Thriller"
+    },
+    {
+      "id": 3,
+      "genreName": "Science Fiction/Fantasy"
+    },
+    {
+      "id": 4,
+      "genreName": "Cyberpunk"
+    },
+    {
+      "id": 5,
+      "genreName": "Dark Fantasy"
+    },
+    {
+      "id": 6,
+      "genreName": "Post-Apocalyptic"
+    },
+    {
+      "id": 7,
+      "genreName": "Biography/Memoir"
+    },
+    {
+      "id": 8,
+      "genreName": "Dystopian/Political Thriller"
+    },
+    {
+      "id": 9,
+      "genreName": "Horror"
+    },
+    {
+      "id": 10,
+      "genreName": "Romance"
+    },
+    {
+      "id": 11,
+      "genreName": "Adventure"
+    },
+    {
+      "id": 12,
+      "genreName": "Comedy"
+    },
+    {
+      "id": 13,
+      "genreName": "Drama"
+    },
+    {
+      "id": 14,
+      "genreName": "Historical"
+    },
+    {
+      "id": 15,
+      "genreName": "Slice of Life"
+    }
+  ],
+  "users": [
+    {
+      "id": 101,
+      "username": "John Doe",
+      "email": "john.doe@example.com",
+      "password": ""
+    },
+    {
+      "id": 102,
+      "username": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "password": ""
+    },
+    {
+      "id": 103,
+      "username": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "password": ""
+    },
+    {
+      "username": "iaparicio",
+      "email": "iaparicio695@gmail.com",
+      "password": "",
+      "id": 104
+    },
+    {
+      "username": "drew",
+      "email": "drew@drew.com",
+      "id": 105
+    }
+  ]
+}

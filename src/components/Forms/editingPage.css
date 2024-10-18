@@ -1,0 +1,81 @@
+/* General styling for the form container */
+.editing-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #f7f0e0; /* Warm parchment color for the form background */
+    border-radius: 12px; /* Slightly more rounded corners */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); /* Deeper shadow for a more dramatic effect */
+    border: 2px solid #a39367; /* Gold-ish border to mimic Gringotts' opulence */
+}
+
+/* Styling for fieldset elements */
+.editing-page fieldset {
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* Styling for form-group containers */
+.form-group {
+    margin-bottom: 20px; /* Add more space between form groups */
+}
+
+/* Styling for labels */
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #3e2723; /* Dark brown for a more traditional look */
+    font-family: 'Garamond', serif; /* Elegant font */
+}
+
+/* Styling for input fields */
+.form-control {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #a39367; /* Matching the border to the form */
+    border-radius: 6px;
+    box-sizing: border-box;
+    background-color: #fbf7e9; /* Slightly lighter background inside inputs */
+    color: #3e2723; /* Dark brown text color */
+    font-family: 'Garamond', serif; /* Elegant font */
+}
+
+/* Styling for select dropdowns */
+.form-control {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #a39367;
+    border-radius: 6px;
+    box-sizing: border-box;
+    background-color: #fbf7e9;
+    color: #3e2723;
+    font-family: 'Garamond', serif; /* Elegant font */
+}
+
+/* Styling for buttons */
+.form-btn {
+    background-color: #b2872f; /* Rich golden color for the button */
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: 'Garamond', serif; /* Elegant font */
+    transition: background-color 0.3s ease;
+}
+
+.form-btn:hover {
+    background-color: #8f6e28; /* Darker gold on hover */
+    cursor: url('./Microsoft-Fluentui-Emoji-Mono-Magic-Wand.24.png'), auto;
+}
+
+/* Optional: Styling for additional spacing or alignment */
+.editing-page h1 {
+    text-align: center;
+    margin-bottom: 25px;
+    color: #3e2723; /* Dark brown text color */
+    font-family: 'Garamond', serif; /* Elegant font */
+}

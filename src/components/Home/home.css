@@ -1,0 +1,32 @@
+.welcome-container {
+    margin: 2rem auto;
+    width: 60%;
+    text-align: center;
+    padding: 5rem 3rem;
+    border: 2px solid #e0c28b; /* Golden border to match the Gringotts theme */
+    background: #2c3e50; /* Dark, stone-like background */
+    border-radius: 0.5rem;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5); /* Deeper shadow for a more imposing look */
+    font-family: 'Cinzel', serif; /* Elegant, old-world font */
+    color: #e0c28b; /* Golden text color to contrast with the dark background */
+}
+
+.welcome-container > h1 {
+    display: flex;
+    flex-direction: column;
+    color: #e0c28b; /* Golden color for the heading */
+    font-size: 2.5rem; /* Larger font size for a grander appearance */
+    margin-bottom: 1.5rem; /* Space below the heading */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Subtle text shadow for depth */
+    letter-spacing: 2px; /* Spacing between letters for a more dramatic effect */
+}
+
+.welcome-container > h1 span {
+    color: #d4af37; /* Slightly lighter gold for emphasis */
+}
+
+.welcome-container > div {
+    font-style: italic;
+    color: #e0c28b; /* Golden color for any italic text */
+    font-size: 1.2rem; /* Slightly larger font size for readability */
+}

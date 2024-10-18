@@ -1,0 +1,88 @@
+/* General container styling */
+body {
+  background: url('https://www.hp-lexicon.org/wp-content/uploads/2016/05/gringott_s_by_facegrater-d8jpcwj.jpg?ezimgfmt=ng%3Awebp%2Fngcb22') no-repeat center center fixed; /* Background image of Gringotts */
+  background-size: cover;
+  z-index: -2
+}
+
+.container-login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+}
+
+/* Form container styling */
+.form-login {
+  background: #fff; /* White background for the form */
+  border: 2px solid #333; /* Dark border for a more solid look */
+  border-radius: 12px; /* Rounded corners */
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Slightly darker shadow for a more refined effect */
+  width: 300px; /* Fixed width for the form */
+  position: relative; /* Position relative for decorative effects */
+}
+
+/* Heading styling */
+h1 {
+  color: #2c3e50; /* Dark blue text color */
+  text-align: center;
+  font-size: 26px;
+  margin-bottom: 10px;
+  font-family: 'Garamond', serif; /* Elegant font */
+}
+
+h2 {
+  color: #7f8c8d; /* Muted gray text color */
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 20px;
+  font-family: 'Garamond', serif; /* Elegant font */
+}
+
+/* Input field styling */
+.form-group input {
+  width: 100%; /* Full width of the form */
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin-bottom: 15px;
+  font-size: 16px;
+  color: #333;
+  background: #fafafa; /* Slightly off-white background for input fields */
+}
+
+/* Button styling */
+.login-btn {
+  width: 100%; /* Full width of the form */
+  padding: 12px;
+  border: 1px solid #333;
+  border-radius: 6px;
+  background-color: #e67e22; /* Copper button color */
+  color: #fff; /* White text color */
+  cursor: pointer;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-family: 'Garamond', serif; /* Elegant font */
+}
+
+.login-btn:hover {
+  background-color: #d35400; /* Darker copper on hover */
+  cursor: url('./Microsoft-Fluentui-Emoji-Mono-Magic-Wand.24.png'), auto;
+}
+
+/* Link styling */
+section a {
+  color: #2c3e50; /* Dark blue text color */
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  margin-top: 10px;
+  font-size: 14px;
+  font-family: 'Garamond', serif; /* Elegant font */
+}
+
+section a:hover {
+  text-decoration: underline; /* Underline on hover */
+}

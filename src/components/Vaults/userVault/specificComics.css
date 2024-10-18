@@ -1,0 +1,71 @@
+/* General styling for the main content area */
+.main-content {
+    max-width: 1200px; /* Set a maximum width for the content */
+    margin: 0 auto; /* Center the content horizontally */
+    padding: 20px; /* Add padding around the content */
+}
+
+/* Styling for the heading */
+.main-content h1 {
+    text-align: center; /* Center the heading text */
+    margin-bottom: 20px; /* Add space below the heading */
+}
+
+/* Styling for the comic grid container */
+.comic-grid {
+    display: grid; /* Use CSS Grid layout */
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Responsive grid columns */
+    gap: 20px; /* Space between grid items */
+}
+
+/* Styling for each comic item */
+.comic {
+    background-color: #f9f9f9; /* Light background color for each comic */
+    border: 1px solid #ddd; /* Light border color */
+    border-radius: 8px; /* Rounded corners */
+    overflow: hidden; /* Hide overflow for rounded corners */
+    text-align: center; /* Center text inside the comic item */
+    padding: 10px; /* Add padding inside each comic item */
+}
+
+/* Styling for comic images */
+.comic-image {
+    width: 100%; /* Make the image full width */
+    height: auto; /* Maintain aspect ratio */
+    border-bottom: 1px solid #ddd; /* Separator between image and text */
+}
+
+/* Styling for comic titles */
+.comic h2 {
+    margin: 10px 0; /* Add space above and below the title */
+    font-size: 18px; /* Set font size */
+    color: #333; /* Dark text color */
+}
+
+/* Styling for comic genre text */
+.comic p {
+    font-size: 14px; /* Set font size */
+    color: #666; /* Gray text color */
+}
+
+/* Styling for the footer section */
+footer {
+    text-align: center; /* Center the footer text */
+    margin-top: 20px; /* Add space above the footer */
+}
+
+/* Styling for the Add Comic button */
+footer button {
+    background-color: #007bff; /* Primary button color */
+    color: #fff; /* Button text color */
+    border: none; /* Remove default border */
+    padding: 10px 20px; /* Add padding inside the button */
+    border-radius: 4px; /* Rounded corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    font-size: 16px; /* Set font size */
+}
+
+footer button:hover {
+    background-color: #0056b3; /* Darker color on hover */
+    cursor: url('./Microsoft-Fluentui-Emoji-Mono-Magic-Wand.24.png'), auto
+}
